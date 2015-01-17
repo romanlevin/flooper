@@ -1,2 +1,2 @@
 class Floop(object):
-    
+    pass
