@@ -2,4 +2,4 @@
 .env
 .ropeproject
 .anaconda
-
+local_settings.py
